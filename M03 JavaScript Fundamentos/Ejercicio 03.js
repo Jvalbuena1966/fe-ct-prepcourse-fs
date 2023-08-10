@@ -43,12 +43,12 @@ function esImpar(num) {
    return num % 2 != 0
 }
 
-console.log (sonIguales(4,4),sonIguales(3,4))
-console.log (tienenMismaLongitud("javier","ddwwee"),tienenMismaLongitud("javier","ddwee"))
-console.log (menosQueNoventa(89),menosQueNoventa(90))
-console.log (mayorQueCincuenta(51),mayorQueCincuenta(50))
-console.log (esPar(10),esPar(11))
-console.log (esImpar(11),esImpar(10))
+// console.log (sonIguales(4,4),sonIguales(3,4))
+// console.log (tienenMismaLongitud("javier","ddwwee"),tienenMismaLongitud("javier","ddwee"))
+// console.log (menosQueNoventa(89),menosQueNoventa(90))
+// console.log (mayorQueCincuenta(51),mayorQueCincuenta(50))
+// console.log (esPar(10),esPar(11))
+// console.log (esImpar(11),esImpar(10))
 
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/

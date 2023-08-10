@@ -10,7 +10,7 @@ Para ejecutar los tests de las homeworks debes:
 
 ```bash
     npm install
-```
+```cl
 
 2. Luego de que se hayan instalado las dependencias pueden comenzar a correr los tests.
 

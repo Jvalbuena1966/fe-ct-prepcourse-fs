@@ -4,7 +4,7 @@
 function devolverString(string) {
    // Debe retornar un string.
    // Tu código:
-   return "javier"
+   return string;
 
 }
 
@@ -41,7 +41,7 @@ function obtenerResto(x, y) {
    return x % y;
 }
 
-console.log(devolverString(),"\n",suma(5,7),resta(10,5),divide(10,2),multiplica(3,5),obtenerResto(10,3));
+//console.log(devolverString(),"\n",suma(5,7),resta(10,5),divide(10,2),multiplica(3,5),obtenerResto(10,3));
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
