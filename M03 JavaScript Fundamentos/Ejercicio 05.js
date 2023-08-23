@@ -84,14 +84,14 @@ function esVocal(letra) {
 }
 
 // console.log(obtenerSaludo("javier"))
-console.log(esVocal("a"));
-console.log(esVocal("e"));
-console.log(esVocal("i"));
-console.log(esVocal("o"));
-console.log(esVocal("u"));
-console.log(esVocal("A"));
-console.log(esVocal("ka"));
-console.log(esVocal("l"));
+// console.log(esVocal("a"));
+// console.log(esVocal("e"));
+// console.log(esVocal("i"));
+// console.log(esVocal("o"));
+// console.log(esVocal("u"));
+// console.log(esVocal("A"));
+// console.log(esVocal("ka"));
+// console.log(esVocal("l"));
 
 
 

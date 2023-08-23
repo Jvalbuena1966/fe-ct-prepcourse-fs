@@ -44,19 +44,19 @@ function numeroRandom() {
 
 }
 
-let num  = 10;
-console.log(`cuadrado de ${num} = `,elevarAlCuadrado(num))
-console.log(`cubo de ${num} = `,elevarAlCubo(num))
+// let num  = 10;
+// console.log(`cuadrado de ${num} = `,elevarAlCuadrado(num))
+// console.log(`cubo de ${num} = `,elevarAlCubo(num))
 
-let num1  = 10.5;
-console.log(`elevar  de ${num} elevado a  ${num1}= ` , elevar( num,num1))
+// let num1  = 10.5;
+// console.log(`elevar  de ${num} elevado a  ${num1}= ` , elevar( num,num1))
 
-console.log(`redondear ${num1} = `,redondearNumero(num1))
+// console.log(`redondear ${num1} = `,redondearNumero(num1))
 
 
-console.log(`redondear hacia arriba  ${num1} = ` , redondearHaciaArriba( num1))
+// console.log(`redondear hacia arriba  ${num1} = ` , redondearHaciaArriba( num1))
 
-console.log(`aleatorio entre 0 y 1  = ` , numeroRandom())
+// console.log(`aleatorio entre 0 y 1  = ` , numeroRandom())
 
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
